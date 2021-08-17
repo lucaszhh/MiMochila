@@ -1,0 +1,7 @@
+CPU: Procesador Intel(R) Pentium(R) CPU  N3540, Zócalos compatibles: FCBGA1170
+Placa Madre: Motherboard: H310
+Memoria RAM: Memoria física instalada (RAM) 8,00 GB, Tipo de memoria RAM: DDR4
+Memoria Secundaria: SSD WEstern DIgital WD Green 240GB 
+Placa de video: No
+Fuente: Noga ATX-550 P4, 550 W
+Gabinete: Noga ET-7
